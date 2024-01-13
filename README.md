@@ -1,4 +1,7 @@
-# EpicFazbear.github.io
+<h1>
+<img src="https://epicfazbear.github.io/src/cake.png" width="64" style="margin-bottom:-20px">
+<a href="https://epicfazbear.github.io/">EpicFazbear.github.io</a>
+</h1>
 
 This page is not my actual website, but rather just a filehost for my website.
 I'll try not to host *copyrighted material* (mainly music files), but if you are the rightful owner of something on here and want me to take it down, let me know by creating an Issue, and I'll try to remove it from both the current repository and the commit history as well.
