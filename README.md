@@ -1,6 +1,6 @@
 <h1>
-<img src="https://raw.githubusercontent.com/EpicFazbear/EpicFazbear.github.io/main/src/cake.png" width="64" style="margin-bottom:-20px">
-<a href="https://epicfazbear.github.io/">EpicFazbear.github.io</a>
+<img src="https://raw.githubusercontent.com/fazsune/fazsune.github.io/main/src/cake.png" width="64" style="margin-bottom:-20px">
+<a href="https://fazsune.github.io/">fazsune.github.io</a>
 </h1>
 
 This page is not my actual website, but rather just a filehost for my website.
